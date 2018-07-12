@@ -2,7 +2,9 @@
   "name": "api-tests",
   "version": "1.0.0",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
   "scripts": {
     "test": "jest"
   },

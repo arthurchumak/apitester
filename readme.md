@@ -5,7 +5,7 @@
 ## Describe your api by client
 
 ```
-import axios, {AxiosRequestConfig} from "axios";
+import axios from "axios";
 
 axios.defaults.validateStatus = () => true;
 
