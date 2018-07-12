@@ -1,12 +1,14 @@
 {
   "name": "api-tests",
   "version": "1.0.0",
-  "dependencies": {
-  },
+  "dependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "arthurchumak@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
 }
